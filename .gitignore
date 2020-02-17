@@ -2,3 +2,6 @@
 *.csv
 mydata/after_eda/graph_sample.pdf
 mydata/after_eda/missing_edges_final.p
+mydata/fea_sample/hits.p
+mydata/fea_sample/katz.p
+mydata/fea_sample/page_rank.p
